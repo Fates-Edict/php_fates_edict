@@ -11,10 +11,10 @@
         <div class="h-[50%] text-center flex flex-col gap-5 border border-gray-300 p-10 rounded bg-white">
             <h1 class="text-3xl">Screening Teramedik Soal A (PHP)</h1>
             <div class="flex justify-center gap-1 mt-10">
-                <a href="/soal-1" class="cursor-pointer bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300">
+                <a href="/soal-1.php" class="cursor-pointer bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300">
                     Soal 1
                 </a>
-                <a href="/soal-2" class="cursor-pointer bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300">
+                <a href="/soal-2.php" class="cursor-pointer bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg shadow-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50 transition duration-300">
                     Soal 2
                 </a>
             </div>
